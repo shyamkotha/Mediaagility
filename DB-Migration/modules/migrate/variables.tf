@@ -1,0 +1,11 @@
+variable source_db {}
+variable bucket_name {}
+variable private_name {}
+variable private_ip_address {}
+variable ciphertext_dest_dbpass {}
+variable ciphertext_source_dbendpoint {}
+variable ciphertext_source_dbusername {}
+variable ciphertext_source_dbpass {}
+variable location {}
+variable db_tier {}
+variable sql_user {}
